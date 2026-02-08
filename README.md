@@ -7,8 +7,8 @@ I am passionate about building applications and open source projects. My goal is
 Skills & Experience  
 ⚛️ Angular, Vue, Flutter, NestJS  
 💻 HTML, CSS, JavaScript, Typescript, Dart  
-🤖 Node.js, Flutter  
-☁️ Jenkins, Docker    
+🤖 Node.js, Go, Flutter  
+☁️ Jenkins, Docker, Kubernetes(aks), redpanda/kafka    
     
 🔭 I’m currently interested in AI models and trying to to run opensource AI models in laptops and mobile   
 🤔 I’m looking for help with speeding up model inferences on lower end systems   
